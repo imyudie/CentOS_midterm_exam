@@ -92,7 +92,7 @@ sudo chown root:users your_student_ID.txt
 sudo ls -al
 ```
 
-###每一題須繳交資料如下檔案名稱也必須一致：
+### 每一題須繳交資料如下檔案名稱也必須一致：
 1.上傳畫面截圖 Chinese.png  
 2.上傳畫面截圖 Chewing.png  
 3.上傳畫面截圖 Resolution.png  
@@ -105,3 +105,7 @@ sudo ls -al
 10.上傳畫面截圖 Chmod.png  
 11.上傳畫面截圖 Chown.png  
 12.上傳畫面截圖 Ls.png  
+  
+  
+### 作者 : 資管1B許紘齊
+  
